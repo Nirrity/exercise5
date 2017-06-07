@@ -1,0 +1,549 @@
+1337 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: checkRunning(false) entered
+1338 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1338 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: checkRunning(false) exited
+1339 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1339 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: setDatabaseName(0,test-db)
+1339 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1340 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: checkRunning(false) entered
+1340 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1340 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: checkRunning(false) exited
+1340 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1341 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: setDatabasePath(0,mem:test-db)
+1341 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1341 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: checkRunning(false) entered
+1342 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1342 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: checkRunning(false) exited
+1342 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1342 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: setPort(9001)
+1342 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1343 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: start() entered
+1343 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1345 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: run() entered
+1345 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1345 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: Initiating startup sequence...
+1346 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1346 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.maxdatabases=10
+1346 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1346 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.tls=false
+1346 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1347 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.port=9001
+1347 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1347 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.trace=false
+1347 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1347 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.database.0=mem:test-db
+1348 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1348 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.restart_on_shutdown=false
+1348 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1348 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.no_system_exit=true
+1348 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1348 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.silent=true
+1349 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1349 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.default_page=index.html
+1349 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1349 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.address=0.0.0.0
+1349 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1350 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.dbname.0=test-db
+1350 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1351 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: server.root=.
+1351 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1352 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: openServerSocket() entered
+1353 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1360 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: Got server socket: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=9001]
+1360 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1361 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: Server socket opened successfully in 8 ms.
+1361 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1361 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: openServerSocket() exiting
+1362 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1362 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: openDatabases() entered
+1364 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1368 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: Opening database: [mem:test-db]
+1368 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1853 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: Database [index=0, id=0, db=mem:test-db, alias=test-db] opened successfully in 483 ms.
+1854 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1854 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: openDatabases() exiting
+1854 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1855 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: Startup sequence completed in 502 ms.
+1855 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1855 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 2017-06-06 22:43:05.519 HSQLDB server 2.3.4 is online on port 9001
+1856 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1856 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: To close normally, connect and execute SHUTDOWN SQL
+1856 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1856 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: From command line, use [Ctrl]+[C] to abort abruptly
+1857 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1859 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[main,5,main]]: start() exiting
+1859 [main] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+1859 [main] INFO  wdsr.exercise5.Main [] - Database started
+4164938 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: handleConnection(Socket[addr=/127.0.0.1,port=59459,localport=9001]) entered
+4164938 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4164946 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: handleConnection() exited
+4164946 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165058 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:MODE:31
+4165058 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165059 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Connection @37cc33b7,5,HSQLDB Connections @396f6598]]: 0:Trying to connect user 'SA' to DB (test-db)
+4165059 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165059 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Connection @37cc33b7,5,HSQLDB Connections @396f6598]]: 0:Connected user 'SA'
+4165060 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165067 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE DROP TABLE enrollment
+4165071 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165073 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:1
+4165073 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+921  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: ENROLLMENT in statement [DROP TABLE enrollment]
+4165084 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE CREATE TABLE IF NOT EXISTS Student (id INTEGER PRIMARY KEY generated always as identity (START WITH 1), name VARCHAR(20),sex VARCHAR(10), age INTEGER, level INTEGER)
+4165084 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165085 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:2
+4165085 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+926  [main] INFO  wdsr.exercise5.DatabaseHandler [] - Created table Student
+4165087 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE CREATE TABLE IF NOT EXISTS Faculty (id INTEGER PRIMARY KEY generated always as identity (START WITH 100), name VARCHAR(50))
+4165087 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165088 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:3
+4165088 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+927  [main] INFO  wdsr.exercise5.DatabaseHandler [] - Created table Faculty
+4165089 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE CREATE TABLE IF NOT EXISTS Class (id INTEGER PRIMARY KEY generated always as identity (START WITH 1000), name VARCHAR(50), faculty_key_id INTEGER FOREIGN KEY REFERENCES Faculty (id))
+4165089 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165090 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:4
+4165090 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+930  [main] INFO  wdsr.exercise5.DatabaseHandler [] - Created table Class
+4165091 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE CREATE TABLE IF NOT EXISTS Enrollment ( student_key_id INTEGER FOREIGN KEY REFERENCES Student (id), fkey_faculty INTEGER FOREIGN KEY REFERENCES Class (id))
+4165091 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165092 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:5
+4165092 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+931  [main] INFO  wdsr.exercise5.DatabaseHandler [] - Created table Enrollment
+4165094 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO student (name, sex, age, level) VALUES('John Smith','male',23,2)
+4165094 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165095 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:6
+4165095 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+934  [main] INFO  wdsr.exercise5.DatabaseHandler [] - student created succesfully
+4165096 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO student (name, sex, age, level) VALUES('Rebecca Milson','female',27,3)
+4165096 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165096 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:7
+4165097 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+936  [main] INFO  wdsr.exercise5.DatabaseHandler [] - student created succesfully
+4165097 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO student (name, sex, age, level) VALUES('George Heartbreaker','male',19,1)
+4165098 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165098 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:8
+4165098 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+938  [main] INFO  wdsr.exercise5.DatabaseHandler [] - student created succesfully
+4165099 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO student (name, sex, age, level) VALUES('Deepika Chopra','female',25,3)
+4165099 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165100 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:9
+4165100 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+940  [main] INFO  wdsr.exercise5.DatabaseHandler [] - student created succesfully
+4165102 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Faculty (name) VALUES('Engineering')
+4165102 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165103 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:10
+4165103 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165104 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Faculty (name) VALUES('Philosophy')
+4165104 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165104 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:11
+4165105 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165105 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Faculty (name) VALUES('Law and administration')
+4165105 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165106 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:12
+4165106 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165106 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Faculty (name) VALUES('Languages')
+4165107 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165107 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:13
+4165107 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165109 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Class (name, faculty_key_id) VALUES('Introduction to labour law','102')
+4165109 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165110 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:14
+4165111 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165111 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Class (name, faculty_key_id) VALUES('Graph algorithms','100')
+4165112 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165113 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:15
+4165113 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165114 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Class (name, faculty_key_id) VALUES('Existentialism in 20th century','101')
+4165114 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165115 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:16
+4165115 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165116 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Class (name, faculty_key_id) VALUES('English grammar','103')
+4165116 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165117 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:17
+4165117 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165117 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Class (name, faculty_key_id) VALUES('From Plato to Kant','101')
+4165118 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165118 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:18
+4165119 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165120 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1000')
+4165120 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+960  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1000')]
+4165121 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1002')
+4165121 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+961  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1002')]
+4165122 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1003')
+4165122 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+962  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1003')]
+4165123 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1004')
+4165123 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+963  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1004')]
+4165124 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('2','1002')
+4165125 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+964  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('2','1002')]
+4165126 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('2','1003')
+4165126 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+966  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('2','1003')]
+4165127 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1000')
+4165127 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+967  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1000')]
+4165128 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1002')
+4165129 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+968  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1002')]
+4165130 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1003')
+4165130 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+969  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1003')]
+4165131 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE SELECT id_student , name FROM student
+4165131 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+971  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: ID_STUDENT in statement [SELECT id_student , name FROM student]
+4165132 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE SELECT id_student , name FROM student LEFT JOIN enrollment on student.id_student = enrollment.id_student WHERE enrollment.id_student IS NULL
+4165132 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+972  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: STUDENT.ID_STUDENT in statement [SELECT id_student , name FROM student LEFT JOIN enrollment on student.id_student = enrollment.id_student WHERE enrollment.id_student IS NULL]
+4165133 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE SELECT student.id_student , student.name FROM student LEFT JOIN enrollment on student.id_student = enrollment.id_student WHERE student.sex LIKE 'female' AND enrollment.id_class = 1002
+4165134 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+976  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: STUDENT.ID_STUDENT in statement [SELECT student.id_student , student.name FROM student LEFT JOIN enrollment on student.id_student = enrollment.id_student WHERE student.sex LIKE 'female' AND enrollment.id_class = 1002]
+4165137 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE SELECT f.name, e.class_key_id FROM Faculty f JOIN Class c on c.faculty_key_id=f.id FULL JOIN Enrollment e on e.class_key_id=c.id WHERE e.class_key_id IS NULL
+4165137 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+977  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: E.CLASS_KEY_ID in statement [SELECT f.name, e.class_key_id FROM Faculty f JOIN Class c on c.faculty_key_id=f.id FULL JOIN Enrollment e on e.class_key_id=c.id WHERE e.class_key_id IS NULL]
+4165138 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLPREPARE SELECT MAX(age) AS max_age FROM student
+4165139 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4165139 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLEXECUTE:19
+4165140 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+982  [main] INFO  wdsr.exercise5.DatabaseHandler [] - The eldest person: 
+983  [main] INFO  wdsr.exercise5.DatabaseHandler [] - max_age = 27
+4165144 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 0:SQLCLI:SQLDISCONNECT
+4165144 [HSQLDB Connection @37cc33b7] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572717 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: handleConnection(Socket[addr=/127.0.0.1,port=59466,localport=9001]) entered
+4572718 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572718 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: handleConnection() exited
+4572718 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572818 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:MODE:31
+4572819 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572820 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Connection @650317f1,5,HSQLDB Connections @396f6598]]: 1:Trying to connect user 'SA' to DB (test-db)
+4572820 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572821 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Connection @650317f1,5,HSQLDB Connections @396f6598]]: 1:Connected user 'SA'
+4572822 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572836 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE DROP TABLE enrollment
+4572837 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572838 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:1
+4572838 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572840 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE DROP TABLE student
+4572841 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572842 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:2
+4572842 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572843 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE DROP TABLE class
+4572844 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572845 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:3
+4572845 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572847 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE DROP TABLE faculty
+4572847 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572848 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:4
+4572849 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+812  [main] INFO  wdsr.exercise5.DatabaseHandler [] - tables dropped successfully
+4572866 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE CREATE TABLE IF NOT EXISTS Student (id INTEGER PRIMARY KEY generated always as identity (START WITH 1), name VARCHAR(20),sex VARCHAR(10), age INTEGER, level INTEGER)
+4572866 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572867 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:5
+4572867 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+817  [main] INFO  wdsr.exercise5.DatabaseHandler [] - Created table Student
+4572868 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE CREATE TABLE IF NOT EXISTS Faculty (id INTEGER PRIMARY KEY generated always as identity (START WITH 100), name VARCHAR(50))
+4572869 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572869 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:6
+4572869 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+819  [main] INFO  wdsr.exercise5.DatabaseHandler [] - Created table Faculty
+4572870 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE CREATE TABLE IF NOT EXISTS Class (id INTEGER PRIMARY KEY generated always as identity (START WITH 1000), name VARCHAR(50), pkey INTEGER FOREIGN KEY REFERENCES Faculty (id))
+4572871 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572872 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:7
+4572872 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+822  [main] INFO  wdsr.exercise5.DatabaseHandler [] - Created table Class
+4572874 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE CREATE TABLE IF NOT EXISTS Enrollment ( student_key_id INTEGER FOREIGN KEY REFERENCES Student (id), fkey_faculty INTEGER FOREIGN KEY REFERENCES Class (id))
+4572874 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572875 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:8
+4572875 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+825  [main] INFO  wdsr.exercise5.DatabaseHandler [] - Created table Enrollment
+4572878 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO student (name, sex, age, level) VALUES('John Smith','male',23,2)
+4572878 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572879 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:9
+4572880 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+829  [main] INFO  wdsr.exercise5.DatabaseHandler [] - student created succesfully
+4572881 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO student (name, sex, age, level) VALUES('Rebecca Milson','female',27,3)
+4572881 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572882 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:10
+4572882 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+832  [main] INFO  wdsr.exercise5.DatabaseHandler [] - student created succesfully
+4572883 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO student (name, sex, age, level) VALUES('George Heartbreaker','male',19,1)
+4572884 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572885 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:11
+4572885 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+834  [main] INFO  wdsr.exercise5.DatabaseHandler [] - student created succesfully
+4572886 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO student (name, sex, age, level) VALUES('Deepika Chopra','female',25,3)
+4572886 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572887 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:12
+4572887 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+837  [main] INFO  wdsr.exercise5.DatabaseHandler [] - student created succesfully
+4572889 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Faculty (name) VALUES('Engineering')
+4572889 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572890 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:13
+4572890 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572891 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Faculty (name) VALUES('Philosophy')
+4572891 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572892 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:14
+4572892 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572893 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Faculty (name) VALUES('Law and administration')
+4572893 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572894 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:15
+4572894 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572895 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Faculty (name) VALUES('Languages')
+4572895 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572896 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:16
+4572896 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572899 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Class (name, Fkey_faculty) VALUES('Introduction to labour law','102')
+4572899 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+850  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: FKEY_FACULTY in statement [INSERT INTO Class (name, Fkey_faculty) VALUES('Introduction to labour law','102')]
+4572901 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Class (name, Fkey_faculty) VALUES('Graph algorithms','100')
+4572902 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+851  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: FKEY_FACULTY in statement [INSERT INTO Class (name, Fkey_faculty) VALUES('Graph algorithms','100')]
+4572902 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Class (name, Fkey_faculty) VALUES('Existentialism in 20th century','101')
+4572903 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+852  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: FKEY_FACULTY in statement [INSERT INTO Class (name, Fkey_faculty) VALUES('Existentialism in 20th century','101')]
+4572903 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Class (name, Fkey_faculty) VALUES('English grammar','103')
+4572904 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+853  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: FKEY_FACULTY in statement [INSERT INTO Class (name, Fkey_faculty) VALUES('English grammar','103')]
+4572904 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Class (name, Fkey_faculty) VALUES('From Plato to Kant','101')
+4572905 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+854  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: FKEY_FACULTY in statement [INSERT INTO Class (name, Fkey_faculty) VALUES('From Plato to Kant','101')]
+4572906 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1000')
+4572906 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+856  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1000')]
+4572907 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1002')
+4572907 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+857  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1002')]
+4572908 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1003')
+4572908 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+858  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1003')]
+4572909 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1004')
+4572910 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+859  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('1','1004')]
+4572911 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('2','1002')
+4572911 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+860  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('2','1002')]
+4572912 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('2','1003')
+4572912 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+861  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('2','1003')]
+4572912 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1000')
+4572913 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+862  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1000')]
+4572913 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1002')
+4572914 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+863  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1002')]
+4572915 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1003')
+4572915 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+864  [main] ERROR wdsr.exercise5.DatabaseHandler [] - inserting failed user lacks privilege or object not found: CLASS_KEY_ID in statement [INSERT INTO Enrollment (student_key_id, class_key_id) VALUES('4','1003')]
+4572916 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE SELECT id_student , name FROM student
+4572916 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+865  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: ID_STUDENT in statement [SELECT id_student , name FROM student]
+4572917 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE SELECT id_student , name FROM student LEFT JOIN enrollment on student.id_student = enrollment.id_student WHERE enrollment.id_student IS NULL
+4572917 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+868  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: STUDENT.ID_STUDENT in statement [SELECT id_student , name FROM student LEFT JOIN enrollment on student.id_student = enrollment.id_student WHERE enrollment.id_student IS NULL]
+4572919 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE SELECT student.id_student , student.name FROM student LEFT JOIN enrollment on student.id_student = enrollment.id_student WHERE student.sex LIKE 'female' AND enrollment.id_class = 1002
+4572919 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+869  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: STUDENT.ID_STUDENT in statement [SELECT student.id_student , student.name FROM student LEFT JOIN enrollment on student.id_student = enrollment.id_student WHERE student.sex LIKE 'female' AND enrollment.id_class = 1002]
+4572921 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE SELECT f.name, e.class_key_id FROM Faculty f JOIN Class c on c.faculty_key_id=f.id FULL JOIN Enrollment e on e.class_key_id=c.id WHERE e.class_key_id IS NULL
+4572921 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+872  [main] ERROR wdsr.exercise5.DatabaseHandler [] - user lacks privilege or object not found: C.FACULTY_KEY_ID in statement [SELECT f.name, e.class_key_id FROM Faculty f JOIN Class c on c.faculty_key_id=f.id FULL JOIN Enrollment e on e.class_key_id=c.id WHERE e.class_key_id IS NULL]
+4572923 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLPREPARE SELECT MAX(age) AS max_age FROM student
+4572924 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4572925 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLEXECUTE:17
+4572925 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+878  [main] INFO  wdsr.exercise5.DatabaseHandler [] - The eldest person: 
+878  [main] INFO  wdsr.exercise5.DatabaseHandler [] - Max age = 27
+4572929 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 1:SQLCLI:SQLDISCONNECT
+4572929 [HSQLDB Connection @650317f1] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702230 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: handleConnection(Socket[addr=/127.0.0.1,port=59469,localport=9001]) entered
+4702270 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702270 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Server @396f6598,5,main]]: handleConnection() exited
+4702270 [HSQLDB Server @396f6598] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702374 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 2:SQLCLI:MODE:31
+4702376 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702377 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Connection @38a9b227,5,HSQLDB Connections @396f6598]]: 2:Trying to connect user 'SA' to DB (test-db)
+4702377 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702378 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: [Thread[HSQLDB Connection @38a9b227,5,HSQLDB Connections @396f6598]]: 2:Connected user 'SA'
+4702379 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702394 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 2:SQLCLI:SQLPREPARE DROP TABLE enrollment
+4702395 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702396 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 2:SQLCLI:SQLEXECUTE:1
+4702397 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702400 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 2:SQLCLI:SQLPREPARE DROP TABLE student
+4702401 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702402 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 2:SQLCLI:SQLEXECUTE:2
+4702403 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702405 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 2:SQLCLI:SQLPREPARE DROP TABLE class
+4702405 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702406 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 2:SQLCLI:SQLEXECUTE:3
+4702407 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702408 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 2:SQLCLI:SQLPREPARE DROP TABLE faculty
+4702408 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
+4702409 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - [MyHsqlServer@396f6598]: 2:SQLCLI:SQLEXECUTE:4
+4702409 [HSQLDB Connection @38a9b227] INFO  wdsr.exercise5.hsqldb.Log4jPrintWriter [] - 
+
